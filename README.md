@@ -37,4 +37,4 @@ analytics tools.
 ### Author
 Alabi Adeola 
 Health Data Analytics | Biochemistry Graduate
-Health data analysis of Pima Indian Diabetes Dataset using Python, Pandas and Matplotib 
+
