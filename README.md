@@ -35,7 +35,7 @@ analytics tools.
 - correlation_heatmap.png — Correlation heatmap
 
 ### Author
-Alabi Adeola  
+**Alabi Adeola**  
 
 Health Data Analytics | Biochemistry Graduate
 
